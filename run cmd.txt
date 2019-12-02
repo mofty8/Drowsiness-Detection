@@ -1,0 +1,4 @@
+cd desktop
+cd drowsiness-detection
+python detect_drowsiness.py -w 0 -a alarm.wav -p shape_predictor_68_face_landmarks.dat
+python detect_drowsiness.py
